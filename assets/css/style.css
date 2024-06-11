@@ -53,11 +53,21 @@
      text-align: justify;
  }
 
- #album {
-    margin-bottom: 6rem;
+ #album h2 {
+     font-size: 3rem;
  }
- section .foto-album {
-    height: 30rem;
+
+ #album {
+     margin-bottom: 6rem;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-flow: column wrap;
+     gap: 1rem;
+ }
+
+ #album .foto-album {
+     height: 30rem;
  }
 
  body footer {
@@ -78,4 +88,3 @@
      color: #525252;
      text-decoration: underline;
  }
-
