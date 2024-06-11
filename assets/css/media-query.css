@@ -1,7 +1,7 @@
 @media screen and (max-width:806px) {
     main #content h1 {
         font-size: 2.6rem;
-        margin-top: 11rem;
+        margin-top: 28rem;
     }
 
     main #content .content__flex {
@@ -16,7 +16,9 @@
         height: 36rem;
 
     }
-
+    #album {
+        margin-top: 10rem;
+    }
     #content .content__flex .foto-principal {
         margin-bottom: 6rem;
         width: 30rem;
