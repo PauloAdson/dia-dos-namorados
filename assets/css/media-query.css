@@ -12,6 +12,11 @@
         text-align: center;
     }
 
+    main #content .content__flex aside {
+        height: 36rem;
+
+    }
+
     #content .content__flex .foto-principal {
         margin-bottom: 6rem;
         width: 30rem;
