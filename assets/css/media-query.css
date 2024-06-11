@@ -1,11 +1,13 @@
 @media screen and (max-width:806px) {
     main #content h1 {
         font-size: 2.6rem;
-        margin-top: 2.4rem;
+        margin-top: 11rem;
     }
+
     main #content .content__flex {
         flex-flow: column wrap;
     }
+
     main #content .content__flex aside p {
         text-align: center;
     }
