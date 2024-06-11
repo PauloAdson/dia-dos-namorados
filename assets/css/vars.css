@@ -1,5 +1,6 @@
 :root {
     font-size: 62.5%;
+    /* font-weight: var(--regular); */
     --regular: 400;
     --bold: 700;
 }
