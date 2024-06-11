@@ -10,7 +10,7 @@
      background-image: linear-gradient(to bottom, #ffd7c0, #ffffff);
  }
 
- main .content {
+ main #content {
      display: flex;
      flex-flow: column wrap;
      justify-content: center;
