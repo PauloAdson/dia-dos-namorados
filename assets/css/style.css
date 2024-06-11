@@ -61,3 +61,8 @@
      width: 100%;
      height: 7rem;
  }
+
+ footer p a {
+    color: #525252;
+    text-decoration: underline;
+ }
